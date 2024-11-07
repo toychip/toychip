@@ -1,7 +1,7 @@
 ### About Me
 |	Date |Affiliation|	
 |--|---|
-|2024\.03 ~ |Mash Up 14th Spring Team|
+|2024\.03 ~ 2024\.10|Mash Up 14th Spring Team|
 |2024\.03 ~ 2024.08|UMC 6th MJU BE Leader|
 |2023\.09 ~ 2024.02|UMC 5th MJU BE|
 |2023\.09 ~ 2024.01|TAVE 12th BE|
@@ -12,7 +12,7 @@
 ### Project
 |	Date |Project | Content | Team |	
 |---|---|---|---|
-| 2024\.05 ~ | [Maship](https://github.com/mash-up-kr/Dojo-Spring)| 익명 투표 서비스 | [Mash-UP](https://mash-up.kr) 14기 |
+| 2024\.05 ~ 2024\.10| [Maship](https://github.com/mash-up-kr/Dojo-Spring)| 익명 투표 서비스 | [Mash-UP](https://mash-up.kr) 14기 |
 | 2024\.01 ~ | [똑립](https://github.com/ttoklip/BackEnd)| 사회초년생 커뮤니티 서비스 |[UMC](https://www.instagram.com/uni_makeus_challenge) 5기 |
 | 2023\.12 ~ 2024\.02 | [백발백준](https://github.com/Tave100Shot/Server) | 알고리즘 풀이 비교 서비스 |[TAVE](https://blog.naver.com/t-ave/223340995513) 12기 | 
 | 2023\.07 ~ 2023\.10 | [Travel Planner](https://github.com/travel-planner-project)  | 여행 계획 서비스 | | 
